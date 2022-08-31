@@ -1,0 +1,8 @@
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\bin\Debug\ArrayReturn.exe.config
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\bin\Debug\ArrayReturn.exe
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\bin\Debug\ArrayReturn.pdb
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\obj\Debug\ArrayReturn.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\obj\Debug\ArrayReturn.csproj.SuggestedBindingRedirects.cache
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\obj\Debug\ArrayReturn.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\obj\Debug\ArrayReturn.exe
+C:\Users\steven\source\repos\ArrayReturn\ArrayReturn\obj\Debug\ArrayReturn.pdb
